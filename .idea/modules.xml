@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shsxt-xmjf-api/shsxt-xmjf-api.iml" filepath="$PROJECT_DIR$/shsxt-xmjf-api/shsxt-xmjf-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shsxt-xmjf-code/shsxt-xmjf-code.iml" filepath="$PROJECT_DIR$/shsxt-xmjf-code/shsxt-xmjf-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shsxt-xmjf-par.iml" filepath="$PROJECT_DIR$/shsxt-xmjf-par.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shsxt-xmjf-server/shsxt-xmjf-server.iml" filepath="$PROJECT_DIR$/shsxt-xmjf-server/shsxt-xmjf-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shsxt-xmjf-web/shsxt-xmjf-web.iml" filepath="$PROJECT_DIR$/shsxt-xmjf-web/shsxt-xmjf-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shxt-xmjf-admin/shxt-xmjf-admin.iml" filepath="$PROJECT_DIR$/shxt-xmjf-admin/shxt-xmjf-admin.iml" />
+    </modules>
+  </component>
+</project>

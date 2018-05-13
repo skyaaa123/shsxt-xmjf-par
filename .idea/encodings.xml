@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/shsxt-xmjf-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shsxt-xmjf-code" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shsxt-xmjf-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shsxt-xmjf-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/shxt-xmjf-admin" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
